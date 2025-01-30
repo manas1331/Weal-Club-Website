@@ -1,0 +1,36 @@
+.header{
+    min-height: 100vh;
+}
+.header__content{
+    min-height: calc(100vh - 106px);
+    flex-direction: column;
+}
+.header__title{
+    font-size: 6rem;
+    line-height: 1.2;
+}
+.header__content .para__text{
+    padding: 4rem 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: larger;
+}
+
+
+@media(min-width: 992px){
+    .header__content{
+        flex-direction: row;
+    }
+    .header__content--right{
+        text-align: left;
+        width: 50%;
+    }
+    .header__content--left{
+        width: 50%;
+    }
+    .header__content--right .para__text{
+        margin-left: 0;
+        
+    }
+}

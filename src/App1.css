@@ -1,0 +1,75 @@
+/* Ensure the styles are scoped to App1 */
+.App1-container {
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  
+  .slider-card {
+    background-color: white;
+    height: 500px;
+    text-align: center;
+    color: black;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .slider-card .image-container {
+    height: 220px;
+    width: 100%;
+    background-color: #6366F1; /* Indigo-500 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  
+  .slider-card img {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+  }
+  
+  .slider-card .text-box {
+    padding: 20px;
+    background-color: #F3F4F6; /* Gray-100 */
+    width: 100%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+  
+  .slider-card .text-box p {
+    margin: 10px 0;
+  }
+  
+  .slider-card .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .slider-card .review {
+    font-size: 14px;
+    color: #4B5563; /* Gray-600 */
+  }
+  
+  .slider-card .read-more-btn {
+    background-color: #6366F1; /* Indigo-500 */
+    color: white;
+    font-size: 16px;
+    padding: 8px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .slider-card .read-more-btn:hover {
+    background-color: #4F46E5; /* Darker Indigo */
+  }
+  

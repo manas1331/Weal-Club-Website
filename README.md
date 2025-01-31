@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# WEAL Health Tech Club – PES University  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the official repository of **WEAL Health Tech Club** at **PES University**!  
 
-## Available Scripts
+## 🌍 About WEAL Health Tech Club  
 
-In the project directory, you can run:
+WEAL (Wellness, Empowerment, Awareness, and Longevity) is a student-driven initiative focused on integrating **technology with healthcare** to create **impactful solutions** for real-world challenges.  
 
-### `npm start`
+### 🎯 Our Mission  
+- 🏥 **Bridge the gap** between healthcare and technology.  
+- 🤖 Encourage students to develop **AI, ML, and IoT** solutions for the medical field.  
+- 🚀 Host **workshops, hackathons, and research projects** to foster innovation.  
+- 🏆 Collaborate with **industry experts, doctors, and researchers** to drive meaningful change.  
+- 📢 Promote **health awareness** through digital initiatives and community outreach.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖥️ Club Website  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The WEAL Health Tech Club website serves as a **central hub** for:  
+✅ **Upcoming events & workshops**  
+✅ **Project showcases & student innovations** 
 
-### `npm test`
+👉 **Visit the website:** [Insert Website Link Here]  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 How to Get Involved?  
 
-### `npm run build`
+🔹 Join our **regular meetups** and **workshops**  
+🔹 Contribute to **open-source projects** in health tech  
+🔹 Participate in **hackathons** and **case challenges**  
+🔹 Engage with **mentors & industry professionals**  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📬 Contact Us  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📧 **Email:** [Insert Club Email]  
+📌 Follow us on [LinkedIn](#), [Twitter](#), [Instagram](#)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Let's shape the future of **health technology together!** 🚀💡  
